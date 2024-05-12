@@ -10,6 +10,6 @@ Our solutions for the problems:
 ## Model summary
 Ultralytics YOLOv8n + conversion to .onnx + quantization + Neural Magic DeepSparse
 
-# Datasets
+## Datasets
 1. [YOLO-Military v7](https://universe.roboflow.com/uce03211-gmail-com/yolo-military)
 2. [Military_1 v2](https://universe.roboflow.com/drone-hnsge/military_1)
