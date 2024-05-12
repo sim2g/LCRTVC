@@ -1,5 +1,5 @@
-# real-time-vehicle-classification
-Low Cost Real Time object Detector project for the "2024 London Defence Tech Hackathon"
+# LCRTVC
+Low Cost Real Time Vehicle Classification project for the 2024 London Defence Tech Hackathon.
 
 # Datasets
 YOLO-Military v7 - universe.roboflow.com/uce03211-gmail-com/yolo-military
