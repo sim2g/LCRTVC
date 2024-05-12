@@ -9,5 +9,5 @@ Our solutions for the problems:
 Ultralytics YOLOv8n + conversion to .onnx + quantization + Neural Magic DeepSparse
 
 # Datasets
-1. [YOLO-Military v7](universe.roboflow.com/uce03211-gmail-com/yolo-military)
-2. [Military_1 v2](universe.roboflow.com/drone-hnsge/military_1)
+1. [YOLO-Military v7]('universe.roboflow.com/uce03211-gmail-com/yolo-military')
+2. [Military_1 v2]('universe.roboflow.com/drone-hnsge/military_1')
